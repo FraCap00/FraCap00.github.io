@@ -111,7 +111,7 @@ p {
 }
 .about-author img {
   border-radius: 10px;
-  max-width: 70px;
+  width: 70px;
 }
 .post-container:nth-child(even) {
   background-color: #f2f2f2;
