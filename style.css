@@ -110,8 +110,8 @@ p {
   text-align: center;
 }
 .about-author img {
+  max-width: 70%;
   border-radius: 10px;
-  width: 70%;
 }
 .post-container:nth-child(even) {
   background-color: #f2f2f2;
